@@ -1,0 +1,13 @@
+**/$*
+**/.*
+**/.idea
+**/*.log
+**/*.sql
+**/*.properties
+**/*.txt
+**/*.iml
+**/.env
+**/*.y*ml
+**/*.iml
+
+!.gitignore
